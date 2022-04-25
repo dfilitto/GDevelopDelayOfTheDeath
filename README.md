@@ -1,5 +1,4 @@
-# GDevelopDelayOfTheDeath
-Delay Of The Death
+![Delay Of The Death](https://github.com/dfilitto/GDevelopDelayOfTheDeath/blob/main/Telas/Icone.png)
 
 Game created for Ludum Dare 50, with the theme “Delay the Inevitable”.
 
